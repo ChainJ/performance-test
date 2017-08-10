@@ -1,0 +1,7 @@
+dependencies {
+    compile(
+            'org.mybatis:mybatis:3.4.4'
+    )
+}
+
+httpPort = 8082

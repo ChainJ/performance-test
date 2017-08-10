@@ -20,7 +20,7 @@ public class User {
     @Id
     @GeneratedValue(generator = "increment")
     @GenericGenerator(name = "increment", strategy = "increment")
-    String id;
+    int id;
     String name;
     int age;
 }

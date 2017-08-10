@@ -1,15 +1,8 @@
-apply plugin: 'java'
-apply plugin: 'war'
-apply plugin: 'jetty'
-
 dependencies {
-    providedCompile 'javax.servlet:javax.servlet-api:3.0.1'
-    runtime 'javax.servlet:jstl:1.2'
     compile(
             'org.springframework:spring-webmvc:4.3.10.RELEASE',
             'org.springframework:spring-core:4.3.10.RELEASE',
             'org.hibernate:hibernate-entitymanager:5.2.10.Final',
-            'org.projectlombok:lombok:1.16.8',
     )
 }
 
