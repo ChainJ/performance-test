@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/performance-test.iml" filepath="$PROJECT_DIR$/.idea/modules/performance-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate.iml" group="servlet-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate_main.iml" group="servlet-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-hibernate/servlet-hibernate_test.iml" group="servlet-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis.iml" group="servlet-mybatis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis_main.iml" group="servlet-mybatis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/servlet-mybatis/servlet-mybatis_test.iml" group="servlet-mybatis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate.iml" group="springmvc-spring-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate_main.iml" group="springmvc-spring-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springmvc-spring-hibernate/springmvc-spring-hibernate_test.iml" group="springmvc-spring-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate.iml" filepath="$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate.iml" group="struts2-spring-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate_main.iml" group="struts2-spring-hibernate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/struts2-spring-hibernate/struts2-spring-hibernate_test.iml" group="struts2-spring-hibernate" />
+    </modules>
+  </component>
+</project>

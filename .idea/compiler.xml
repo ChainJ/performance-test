@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="servlet-hibernate_main" target="1.8" />
+      <module name="servlet-hibernate_test" target="1.8" />
+      <module name="servlet-mybatis_main" target="1.8" />
+      <module name="servlet-mybatis_test" target="1.8" />
+      <module name="springmvc-spring-hibernate_main" target="1.8" />
+      <module name="springmvc-spring-hibernate_test" target="1.8" />
+      <module name="struts2-spring-hibernate_main" target="1.8" />
+      <module name="struts2-spring-hibernate_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

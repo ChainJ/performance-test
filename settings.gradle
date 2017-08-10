@@ -1,0 +1,4 @@
+include "springmvc-spring-hibernate"
+include "struts2-spring-hibernate"
+include "servlet-hibernate"
+include "servlet-mybatis"
