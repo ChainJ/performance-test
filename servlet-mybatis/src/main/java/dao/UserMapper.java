@@ -2,6 +2,7 @@ package dao;
 
 import model.User;
 import org.apache.ibatis.annotations.Insert;
+import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.annotations.Update;
 
@@ -12,10 +13,10 @@ import java.util.List;
  */
 public interface UserMapper {
     @Select("SELECT id, name, age FROM user WHERE id = #{id}")
-    User findOne(int id);
+    User findOne(@Param("id") int id);
 
     @Select("SELECT id, name, age FROM user LIMIT #{offset},#{limit}")
-    List<User> findList(int offset, int limit);
+    List<User> findList(@Param("offset") int offset, @Param("limit") int limit);
 
     @Insert("INSERT INTO user(name, age) VALUES(#{name}, #{age})")
     void add(User user);
